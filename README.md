@@ -21,3 +21,4 @@ document and evolve them.
 
 - [Adam Ralph. DDD - Service Boundaries. 26 Jun 2024](https://www.youtube.com/watch?v=I5fhtBQ2wQU)
     - [G. Quéméner. [Review] DDD - Service Boundaries (Adam Ralph). 09 Jul 2024](https://gquemener.github.io/ddd/2024/07/09/DDD-Service-Boundaries.html)
+- [The Anatomy of a Cascading Failure](https://www.youtube.com/watch?v=K3tgWsMxaAU)

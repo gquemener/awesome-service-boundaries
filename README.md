@@ -27,4 +27,5 @@ document and evolve them.
 - [Finding Service Boundaries with the Bounded Context Canvas by Nick Tune](https://www.youtube.com/watch?v=abUPu-R1pw0)
 - [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023](https://www.youtube.com/watch?v=p2GlRToY5HI)
 - [Migrating a monolith to microservices? A dark energy, dark matter perspective - Chris Richardson - YOW! 2022](https://www.youtube.com/watch?v=r1a-kB9Y6bM)
+- [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 

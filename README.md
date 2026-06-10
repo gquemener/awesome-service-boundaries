@@ -26,6 +26,6 @@ document and evolve them.
 - [Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022](https://www.youtube.com/watch?v=Q_0XW46IlHY)
 - [Finding Service Boundaries with the Bounded Context Canvas by Nick Tune](https://www.youtube.com/watch?v=abUPu-R1pw0)
 - [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023](https://www.youtube.com/watch?v=p2GlRToY5HI)
-- [Migrating a monolith to microservices? A dark energy, dark matter perspective - Chris Richardson - YOW! 2022](https://www.youtube.com/watch?v=r1a-kB9Y6bM)
+- [Team topologies and the microservice architecture - Chris Richardson - DDD Europe 2025](https://www.youtube.com/watch?v=S7XqnWz28zw)
 - [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 
